@@ -1,5 +1,5 @@
 # Título del proyecto
-![Buscaminas]
+Buscaminas
 
 ## Descripción 📑
 
@@ -10,8 +10,6 @@ Es un proyecto donde recreo en consola el famoso juego Buscaminas.
 [![JAVA](https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=Java&logoColor=white)](https://es.wikipedia.org/wiki/Java)
 
 ## Vista previa del proyecto
-Si quieres hechas un vistazo al proyecto, te recomiendo:
-
 ![buscaminas](https://github.com/user-attachments/assets/61d0325a-565c-48cf-8e27-7a8a08100fd5)
 
 ## Autor ✒️
