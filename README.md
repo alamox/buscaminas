@@ -7,7 +7,7 @@ Es un proyecto donde recreo en consola el famoso juego Buscaminas.
 
 ## Tecnologías 🛠
 <!-- Iconos sacados de: https://github.com/hendrasob/badges/blob/master/README.md y https://github.com/alexandresanlim/Badges4-README.md-Profile -->
-[![JAVA](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://es.wikipedia.org/wiki/Java)
+[![JAVA](https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=Java&logoColor=white)](https://es.wikipedia.org/wiki/Java)
 
 ## Vista previa del proyecto
 Si quieres hechas un vistazo al proyecto, te recomiendo:
